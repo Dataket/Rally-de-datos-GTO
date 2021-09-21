@@ -11,3 +11,4 @@ Los miembros del equipo son:
 El rally se divide en 5 etapas distintas. Cada etapa se concentra en un ámbito del presupuesto en Guanajuato.
 Las etapas son las siguientes:
 - [__Semana 1__: Cutura](Semana1/Readme.md)
+- [__Semana 2__: Género](Semana2/Readme.md)
