@@ -1,7 +1,7 @@
 # Semana 2: _Olga Costa_
 ## Género
 
-En el [__notebook__](RallyDatos_Semana_2.ipynb) (que también puede consultar en [DeepNote](https://deepnote.com/project/RallyDatosSemana2-Duplicate-KLfPUK_gTXGRMfEPxD11pg/%2Fnotebook.ipynb)) se realiza un breve análisis de la base de datos _Presupuesto aprobado para programas presupuestarios 2021_ (en formato _xslx_) así como las bases de datos _Alineación del Plan Estatal de Desarrollo a los Objetivos de Desarrollo Sostenible_ y _Alineación de los Programas Presupuestarios a los Objetivos de Desarrollo Sostenible_ y  (ambas en formato _csv_)
+En el [__notebook__](RallyDatos_Semana_2.ipynb) (que también puede consultar en [DeepNote](https://deepnote.com/project/RallyDatosSemana2-Duplicate-fnFhD_7AT9O3faVj4kZ97w/%2Fnotebook.ipynb)) se realiza un breve análisis de la base de datos _Presupuesto aprobado para programas presupuestarios 2021_ (en formato _xslx_) así como las bases de datos _Alineación del Plan Estatal de Desarrollo a los Objetivos de Desarrollo Sostenible_ y _Alineación de los Programas Presupuestarios a los Objetivos de Desarrollo Sostenible_ y  (ambas en formato _csv_)
 que se encuentran en el [portal de los ___Programas Presupuestarios de Guanajuato___](https://presupuestoabierto.guanajuato.gob.mx/#/programaspresupuestariosGto) en la
 página web de _Presupuesto Abierto Guanajuato_.
 
