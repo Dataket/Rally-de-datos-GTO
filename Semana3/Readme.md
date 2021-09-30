@@ -1,6 +1,6 @@
 # Semana 3: _Allende_
 ## Turismo
-En el [__notebook__](RallyDatos_Semana_3.ipynb) (que también puede consultar en [DeepNote](https://deepnote.com/project/RallyDatosSemana2-Duplicate-fnFhD_7AT9O3faVj4kZ97w/%2Fnotebook.ipynb))
+En el [__notebook__](RallyDatos_Semana_3.ipynb) (que también puede consultar en [DeepNote](https://deepnote.com/project/RallyDatosSemana3-Duplicate-PkvFfkx_RaqXF-do8NNaMQ/%2Fnotebook.ipynb))
  se realiza un breve análisis de la base de datos _Presupuesto aprobado para programas presupuestarios 2021_ (en formato _xslx_) así como las bases de datos
  _Alineación del Plan Estatal de Desarrollo a los Objetivos de Desarrollo Sostenible_ y _Alineación de los Programas Presupuestarios a los Objetivos de Desarrollo
  Sostenible_ y  (ambas en formato _csv_)
