@@ -14,3 +14,4 @@ Las etapas son las siguientes:
 - [__Semana 2__: Género](Semana2/Readme.md)
 - [__Semana 3__: Turismo](Semana3/Readme.md)
 - [__Semana 4__: Deporte](Semana4/Readme.md)
+- [__Semana 5__: Educación](Semana5/Readme.md)
