@@ -1,5 +1,5 @@
 # Semana 5: _Hidalgo_
-## Turismo
+## Educación
 En el [__notebook__](RallyDatos_Semana_5.ipynb) (que también puede consultar en [DeepNote](https://deepnote.com/project/RallyDatosSemana5-Duplicate-8unzwBPJTiWBtkgU5-8_uw/%2Fnotebook.ipynb))
  se realiza un breve análisis de la base de datos _Presupuesto aprobado para proyectos de inversión territorializados 2021 al Primer trimestre_ (en formato _csv_) así como otras bases de datos que se encuentran en el [portal de ___Presupuesto Abierto Guanajuato___](https://presupuestoabierto.guanajuato.gob.mx/#/programaspresupuestariosGto).
 
